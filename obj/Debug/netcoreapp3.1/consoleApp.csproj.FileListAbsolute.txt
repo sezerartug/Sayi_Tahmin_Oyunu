@@ -1,0 +1,14 @@
+C:\Users\dell\Documents\consoleApp\bin\Debug\netcoreapp3.1\consoleApp.exe
+C:\Users\dell\Documents\consoleApp\bin\Debug\netcoreapp3.1\consoleApp.deps.json
+C:\Users\dell\Documents\consoleApp\bin\Debug\netcoreapp3.1\consoleApp.runtimeconfig.json
+C:\Users\dell\Documents\consoleApp\bin\Debug\netcoreapp3.1\consoleApp.runtimeconfig.dev.json
+C:\Users\dell\Documents\consoleApp\bin\Debug\netcoreapp3.1\consoleApp.dll
+C:\Users\dell\Documents\consoleApp\bin\Debug\netcoreapp3.1\consoleApp.pdb
+C:\Users\dell\Documents\consoleApp\obj\Debug\netcoreapp3.1\consoleApp.AssemblyInfoInputs.cache
+C:\Users\dell\Documents\consoleApp\obj\Debug\netcoreapp3.1\consoleApp.AssemblyInfo.cs
+C:\Users\dell\Documents\consoleApp\obj\Debug\netcoreapp3.1\consoleApp.csproj.CoreCompileInputs.cache
+C:\Users\dell\Documents\consoleApp\obj\Debug\netcoreapp3.1\consoleApp.dll
+C:\Users\dell\Documents\consoleApp\obj\Debug\netcoreapp3.1\consoleApp.pdb
+C:\Users\dell\Documents\consoleApp\obj\Debug\netcoreapp3.1\consoleApp.genruntimeconfig.cache
+C:\Users\dell\Documents\consoleApp\obj\Debug\netcoreapp3.1\consoleApp.csproj.AssemblyReference.cache
+C:\Users\dell\Documents\consoleApp\obj\Debug\netcoreapp3.1\consoleApp.GeneratedMSBuildEditorConfig.editorconfig
